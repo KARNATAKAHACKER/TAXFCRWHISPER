@@ -39,7 +39,7 @@ async def repos(event):
     await event.reply(
             REPO_TEXT,
             buttons=[
-                [Button.url("Click Here", "https://github.com/AMANTYA1/WhisperBot")]
+                [Button.url("Click Here", "https://github.com/KARNATAKAHACKER/TAXFCRWHISPER")]
                 ]
             )
 
@@ -80,7 +80,7 @@ Click The Below Button To See The Message!\n
     deon = event.builder.article(
             title="Send your secret message!",
             description=f"Powered by {NULLBOT_NAME}",
-            url="https://t.me/BotDuniyaXd",
+            url="https://t.me/DO_JISM_EK_JAAN_OP",
             text=null_text,
             buttons=[
                 [Button.inline(" Show Message 🔓 ", data="null_")]
@@ -109,8 +109,8 @@ async def ws(event):
     await event.answer(msg, alert=True)
 
 
-null_txt = 'By github.com/AMANTYA1 | t.me/Shubhanshutya\n'
-null_txt += 'Any questions? Say it at t.me/godzilla_chatting\n'
+null_txt = 'By github.com/KARNATAKAHACKER | t.me/ABOUTAGORA\n'
+null_txt += 'Any questions? Say it at t.me/DO_JISM_EK_JAAN_OP\n'
 null_txt += f'{NULLBOT_NAME} started! Developed and Maintaned by Null\n'
 print(null_txt)
 null.run_until_disconnected()
