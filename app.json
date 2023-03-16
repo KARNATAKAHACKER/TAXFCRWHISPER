@@ -1,6 +1,6 @@
 {
       "name": "Null WhisperBot",
-      "description": "A TelegramBot to send messages secretly, by github.com/AMANTYA1",
+      "description": "A TelegramBot to send messages secretly, by github.com/KARNATAKAHACKER",
       "keywords": [
          "telegram",
          "advance",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/e31709819ce778990deb2.jpg",  
-   "repository": "https://github.com/AMANTYA1/WhisperBot",
+   "repository": "https://github.com/KARNATAKAHACKER/TAXFCRWHISPER",
    "addons": [
           {
          "options": {
@@ -26,8 +26,8 @@
          "value": ""
       },
       "BOT_USERNAME": {
-         "description": "Username of your bot with @, example: `@WhisperNRobot`.",
-         "value": "@WhisperNRobot"
+         "description": "Username of your bot with @, example: `@TAXFCEWHISPERBOT`.",
+         "value": "@TAXFCEWHISPERBOT"
       },
       "BOT_NAME": {
          "description": "Name of your bot, example: `Whisper Bot`",
