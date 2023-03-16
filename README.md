@@ -9,12 +9,12 @@ Open Source Telegram Bot to send messages secretly.
 </details>
 
   <h3 align="center">Bot on Telegram ✈</h3>
-  <p align="center"><a href="https://t.me/WhisperNRobot"><img src="https://img.shields.io/badge/Whisper%20Bot-yellow?style=for-the-badge&logo=telegram" alt="Whisper Bot" width="200""/></a>
+  <p align="center"><a href="https://t.me/TAXFCRWhisperbot"><img src="https://img.shields.io/badge/Whisper%20Bot-yellow?style=for-the-badge&logo=telegram" alt="Whisper Bot" width="200""/></a>
 
 #
 
   <h3 align="center">🚀 Heroku Deployment</h3>
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AMANTYA1/WhisperBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" alt="Deploy To Heroku" width="250""/</a>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KARNATAKAHACKER/TAXFCRWHISPER"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" alt="Deploy To Heroku" width="250""/</a>
 
 ##
 
